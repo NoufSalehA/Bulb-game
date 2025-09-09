@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(0, 0, 0);
+}
+.txt{
+    color: blanchedalmond;
+    text-align: center;
+    margin:30px 0px 50px 0px;
+    font-size: 40px;
+}
+.bulb-shape{
+margin: auto;
+display: flex;
+justify-content: center;
+}
